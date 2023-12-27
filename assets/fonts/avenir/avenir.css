@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Avenir';
+  src: url('./AvenirNextLTPro-Regular.otf') format('opentype');
+  font-weight: 400; /* Regular */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir';
+  src: url('./AvenirNextLTPro-MediumCn.otf') format('opentype');
+  font-weight: 500; /* Medium */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir';
+  src: url('./AvenirNextLTPro-Demi.otf') format('opentype');
+  font-weight: 600; /* SemiBold */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir';
+  src: url('./AvenirNextLTPro-HeavyCn.otf') format('opentype');
+  font-weight: 700; /* Heavy */
+  font-style: normal;
+}
